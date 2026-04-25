@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MadhuSudhanSeelam/leetcode-sloving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0202-happy-number](https://github.com/MadhuSudhanSeelam/leetcode-sloving/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
@@ -27,4 +28,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/MadhuSudhanSeelam/leetcode-sloving/tree/master/0231-power-of-two) |
+## Array
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MadhuSudhanSeelam/leetcode-sloving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MadhuSudhanSeelam/leetcode-sloving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MadhuSudhanSeelam/leetcode-sloving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MadhuSudhanSeelam/leetcode-sloving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
