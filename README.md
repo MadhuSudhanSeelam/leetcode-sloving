@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MadhuSudhanSeelam/leetcode-sloving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0133-clone-graph](https://github.com/MadhuSudhanSeelam/leetcode-sloving/tree/master/0133-clone-graph) |
 | [0202-happy-number](https://github.com/MadhuSudhanSeelam/leetcode-sloving/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
@@ -44,4 +45,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MadhuSudhanSeelam/leetcode-sloving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/MadhuSudhanSeelam/leetcode-sloving/tree/master/0133-clone-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/MadhuSudhanSeelam/leetcode-sloving/tree/master/0133-clone-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/MadhuSudhanSeelam/leetcode-sloving/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
