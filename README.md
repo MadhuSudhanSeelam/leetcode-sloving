@@ -10,12 +10,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0139-word-break](https://github.com/MadhuSudhanSeelam/leetcode-sloving/tree/master/0139-word-break) |
 | [0171-excel-sheet-column-number](https://github.com/MadhuSudhanSeelam/leetcode-sloving/tree/master/0171-excel-sheet-column-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MadhuSudhanSeelam/leetcode-sloving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0133-clone-graph](https://github.com/MadhuSudhanSeelam/leetcode-sloving/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/MadhuSudhanSeelam/leetcode-sloving/tree/master/0139-word-break) |
 | [0202-happy-number](https://github.com/MadhuSudhanSeelam/leetcode-sloving/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MadhuSudhanSeelam/leetcode-sloving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0139-word-break](https://github.com/MadhuSudhanSeelam/leetcode-sloving/tree/master/0139-word-break) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -64,4 +67,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/MadhuSudhanSeelam/leetcode-sloving/tree/master/0207-course-schedule) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0139-word-break](https://github.com/MadhuSudhanSeelam/leetcode-sloving/tree/master/0139-word-break) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/MadhuSudhanSeelam/leetcode-sloving/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/MadhuSudhanSeelam/leetcode-sloving/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
