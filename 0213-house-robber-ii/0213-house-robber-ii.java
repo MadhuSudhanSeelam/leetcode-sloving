@@ -2,6 +2,8 @@ class Solution {
     public int rob(int[] nums) {
         int n = nums.length;
 
+        
+
         // Edge case
         if (n == 1) return nums[0];
 
